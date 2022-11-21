@@ -1,0 +1,9 @@
+<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+    xmlns:rs="http://www.openarchives.org/rs/terms/">
+    <rs:ln href="https://kanazawabunko-db.pen-kanagawa.ed.jp/resourcesync/capabilitylist.xml" rel="up"/>
+    <rs:md at="2022-11-20T01:38:28Z" capability="resourcelist" completed="2022-11-20T04:19:15Z"/>
+    <sitemap>
+        <loc>https://kanazawabunko-db.pen-kanagawa.ed.jp/resourcesync/resourcelist_000000.xml</loc>
+        <rs:md at="2022-11-20T01:38:28Z" completed="2022-11-20T01:38:37Z"/>
+    </sitemap>
+</sitemapindex>

@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+    xmlns:rs="http://www.openarchives.org/rs/terms/">
+    <rs:ln href="https://kanazawabunko-db.pen-kanagawa.ed.jp/resourcesync/resourcelist-index.xml" rel="index" />
+    <rs:ln href="https://kanazawabunko-db.pen-kanagawa.ed.jp/resourcesync/capabilitylist.xml" rel="up" />
+    <rs:md at="2022-11-21T00:13:46Z" capability="resourcelist" completed="2022-11-21T00:13:46Z" />
+    <url>
+        <loc>https://kanazawabunko-db.pen-kanagawa.ed.jp/api/items/1</loc>
+        <lastmod>2016-10-01T00:00:00Z</lastmod>
+        <rs:md hash="md5:cc9895a21e335bbe66d61f2b62ce3a8e" length="20" type="application/json" />
+    </url>
+    <url>
+        <loc>https://kanazawabunko-db.pen-kanagawa.ed.jp/api/items/2</loc>
+        <lastmod>2016-10-01T00:00:00Z</lastmod>
+        <rs:md hash="md5:cc9895a21e335bbe66d61f2b62ce3a8e" length="20" type="application/json" />
+    </url>
+    <url>
+        <loc>https://kanazawabunko-db.pen-kanagawa.ed.jp/api/items/3</loc>
+        <lastmod>2016-10-01T00:00:00Z</lastmod>
+        <rs:md hash="md5:cc9895a21e335bbe66d61f2b62ce3a8e" length="20" type="application/json" />
+    </url>
+</urlset>
